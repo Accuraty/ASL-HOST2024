@@ -1,0 +1,77 @@
+{
+  "owner": "Jeremy Farrance",
+  "siteName": "Accuraty Solutions: Hosting",
+  "siteDescription": "Hosting with Accuraty Solutions gets you real, real-time support by people who care",
+  "about": "Based in Central Illinois, Accuraty has offices in Champaign, IL and Brookfield, CT",
+  "contact": {
+    "email": "jfarrance@accuraty.com",
+    "phone": "217-531-2966",
+    "address": "1800 S Oak St, Suite 100A, Champaign, IL 61820"
+  },
+  "pages": [
+    {
+      "title": "Home",
+      "href": "/"
+    },
+    {
+      "title": "Projects",
+      "href": "/projects"
+    },
+    {
+      "title": "Contact",
+      "href": "/contact"
+    }
+  ],
+  "social": [
+    {
+      "title": "GitHub",
+      "href": "https://github.com/Accuraty"
+    },
+    {
+      "title": "LinkedIn",
+      "href": "https://www.linkedin.com/in/Accuraty/"
+    },
+    {
+      "title": "Instagram",
+      "href": "https://www.instagram.com/Accuraty"
+    },
+    {
+      "title": "YouTube",
+      "href": "https://www.youtube.com/results?search_query=Jeremy+Farrance+Accuraty"
+    }
+  ],
+  "projects": [
+    {
+      "projectTitle": "Project 1",
+      "href": "project/one",
+      "about": "Database of books and reviews from users complete with auth and comments and so much more!!!",
+      "type": "Python, Django, HTML, CSS",
+      "repo": "https://github.com",
+      "image": "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/cta/cta-dashboard-mockup.svg"
+    },
+    {
+      "projectTitle": "Project 2",
+      "href": "project/two",
+      "about": "Video dashboard using JavaScript that allows user to build and share a layout of videos from YouTube.",
+      "repo": "https://github.com",
+      "type": "JavaScript, HTML, CSS",
+      "image": "../assets/screen2.png",
+      "featured": true
+    },
+    {
+      "projectTitle": "Project 3",
+      "href": "project/three",
+      "about": "Some info about this project here, please add something here for this project ok here.",
+      "type": "PHP, MySQL, HTML, CSS",
+      "repo": "https://github.com",
+      "image": "../assets/screen2.png"
+    },
+    {
+      "projectTitle": "Project 4",
+      "href": "project/four",
+      "about": "Some info about project 4 I'm not sure haha ok see ya",
+      "type": "WordPress",
+      "repo": "https://github.com"
+    }
+  ]
+}
